@@ -1,0 +1,26 @@
+For nested classes:
+
+General:
+layout.vtl
+index.vtl
+
+class1.vtl
+classes1.vtl
+class1-form.vtl
+class1-success.vtl
+
+class2.vtl
+classes2.vtl
+class1-class2-form.vtl
+class1-class2-success.vtl
+
+Example:
+artist.vtl
+artists.vtl
+artist-form.vtl
+artist-success.vtl
+
+record.vtl
+records.vtl
+artist-record-form.vtl
+artist-record-success.vtl
